@@ -26,9 +26,6 @@ Cześć! Jestem Wiktor, młody i ambitny programista z doświadczeniem w Pythoni
 - Certyfikat z kampanii reklamowych online (praktyczne projekty w marketingu)  
 - Udział w konkursach informatycznych – 4 miejsce na 300 osób w woj. zachodniopomorskim  
 
-## 📈 Statystyki GitHub
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vlorex&show_icons=true&theme=radical)
-
 ## 📨 Kontakt
 - **E-mail:** [scanstyofficial@gmail.com](mailto:scanstyofficial@gmail.com)  
 

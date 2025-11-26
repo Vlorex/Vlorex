@@ -1,44 +1,35 @@
 ## 💻 O mnie
-Cześć! Jestem Wiktor, młody i ambitny programista z pasją do tworzenia nowych projektów i rozwiązywania ciekawych problemów. Uwielbiam łączyć wiedzę z różnych dziedzin, takich jak astronomia, fizyka i inżynieria, aby tworzyć praktyczne i innowacyjne projekty i rozwiązania.
+Cześć! Jestem Wiktor, młody i ambitny programista z doświadczeniem w Pythonie i Full Stack Web Development. Pasjonuję się tworzeniem praktycznych i innowacyjnych rozwiązań oraz projektów, które łączą logikę, kreatywność i technologię. Lubię rozwijać swoje umiejętności poprzez samodzielne projekty i eksperymenty, zarówno w backendzie, jak i frontendzie.  
 
 ## 🛠️ Technologie i narzędzia
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Python, PHP, SQL
-- **Inne:** WordPress, WooCommerce, marketing i kampanie reklamowe
-- **Inżynieria:** Tworzenie miniaturowych i prawdziwych konstrukcji, prace mechaniczne, prace budowlane
+- **Frontend:** HTML5, CSS3, JavaScript (ES6), React  
+- **Backend:** Python, Node.js, Flask, FastAPI  
+- **Bazy danych:** MySQL, PostgreSQL, SQLite  
+- **Inne:** WordPress, WooCommerce, podstawy DevOps, API integration  
 
-## 🚀 Obecne projekty
-- **E-charakterystyki.pl:** Strona umożliwiająca zakup świadectwa energetycznego całkowicie online
-- **AI Shop:** Strona internetowa z płatnymi narzędziami i usługami opartymi na AI
-- **Inne:** Projekty takie jak VPN tester czy inne mini projekty backend lub frontend
+## 🚀 Projekty
+- **LaTeXify.pro:** SaaS do generowania CV z obsługą płatności i backendem w Python  
+- **VPN Tester:** Narzędzie do testowania połączeń VPN i bezpieczeństwa  
+- **Mini projekty:** różne aplikacje backendowe i frontendowe, które pokazują praktyczne umiejętności w Python i JS  
 
-## 🧠 Moje zainteresowania
-- **Tinkering:** Eksperymenty z elektroniką i mechaniką
-- **Minecraft, Farming Simulator 19, 22, 25, EuroTruck Simulator 2, Call Of Duty** itp.
-- Astronomia i fizyka: badanie wszechświata i zrozumienie zasad fizyki
-- Tworzenie botów do Discord: eksploracja sztucznej inteligencji i automatyzacji
-- Informatyka systemowa i komputerowa
-- Tworzenie modów, pluginów i serwerów Minecraft
-- Montaż filmów i prowadzenie kanału Vlorex na YT
-- Robienie grafik dla znajomych
-- Tworzenie kampanii reklamowych na FB
-- Nauka na platformach Udemy oraz Eduj.pl
-- Mini testy obrony hakerskiej
-- Tworzenie muzyki w programach jak np. Reaper lub FL Studio
+## 🧠 Moje kompetencje
+- Programowanie w Python i JavaScript, budowa skalowalnych aplikacji  
+- Tworzenie backendu i REST API  
+- Integracja systemów i automatyzacja procesów  
+- Znajomość podstaw bezpieczeństwa aplikacji i testowania  
+- Praktyczne projekty na GitHub i własne portfolio  
 
 ## ⭐ Doświadczenie
-- **Programuję od ponad 3 lat**
-- **Certyfikat z kuratorium w Szczecinie za zajęcie 4 miejsca na 300 osób w Informatyce**
-- **Certyfikat ukończenia kursu Python od podstaw**
-- **Certyfikat ukończenia kursu Web Developer od podstaw**
-- **Certyfikat ukończenia kursu o kampaniach reklamowych na FB**
-- **Moje dawne konto na TikToku mające prawie 100K obserwujących (obecnie nie istnieje)**
-- **4 lata doświadczenia na platformie YouTube**
+- Programuję od ponad 3 lat  
+- Certyfikat Python od podstaw  
+- Certyfikat Web Developer od podstaw  
+- Certyfikat z kampanii reklamowych online (praktyczne projekty w marketingu)  
+- Udział w konkursach informatycznych – 4 miejsce na 300 osób w woj. zachodniopomorskim  
 
 ## 📈 Statystyki GitHub
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vlorex&show_icons=true&theme=radical)
 
 ## 📨 Kontakt
-- **E-mail:** [scanstyofficial@gmail.com](mailto:scanstyofficial@gmail.com)
+- **E-mail:** [scanstyofficial@gmail.com](mailto:scanstyofficial@gmail.com)  
 
-Dziękuję za odwiedziny! ☕ Zapraszam do współpracy!
+Dziękuję za odwiedziny! ☕ Chętnie podejmę współpracę przy nowych projektach.
